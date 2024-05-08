@@ -1,4 +1,4 @@
-#Construa o gráfico boxplot do atributo Heart_rate. Faça a análise do gráfico;
+# Construa o gráfico boxplot do atributo Heart_rate. Faça a análise do gráfico;
 
 install.packages("magrittr")
 install.packages("dplyr")
