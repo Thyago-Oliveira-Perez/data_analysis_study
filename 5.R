@@ -10,7 +10,7 @@ library(ggplot2)
 data <- read.csv("data/activity_data_heartrate.csv")
 
 plot(data$TotalSteps, data$TotalDistance,
-     main = "Grafico de Dispersao entre TotalSteps e Calorias",
+     main = "Grafico de Dispersao entre TotalSteps e Distance",
      xlab = "Total Steps",
      ylab = "Distance",
      col = "black",
